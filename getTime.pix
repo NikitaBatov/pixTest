@@ -7,13 +7,15 @@
     <Childs>
       <AbstractStep z:Id="i3" i:type="ExecutedStep">
         <Childs />
+        <HeightOnFlowchart>50</HeightOnFlowchart>
         <Id>ae7871f9-216b-40bd-bf94-53b7e8dd12a7</Id>
         <Parent z:Ref="i2" />
+        <PositionOnFlowchart xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Numerics" i:nil="true" />
         <PropertyValues>
           <PropertyValue z:Id="i4">
             <PropertyName>InputString</PropertyName>
             <_dataType>Expression</_dataType>
-            <_expression>"20.01.2021"</_expression>
+            <_expression>"20.01.2022"</_expression>
             <_screenShotBase64 i:nil="true" />
             <_value i:nil="true" />
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
@@ -36,6 +38,7 @@
           </PropertyValue>
         </PropertyValues>
         <SelectedOptionId>2</SelectedOptionId>
+        <WidthOnFlowchart>360</WidthOnFlowchart>
         <AutoCloseMode>None</AutoCloseMode>
         <EnableStatus>true</EnableStatus>
         <ExceptionHandlingMode>Default</ExceptionHandlingMode>
@@ -44,10 +47,13 @@
         <_activityFullName>BR.Core.Base.GetDateTime</_activityFullName>
       </AbstractStep>
     </Childs>
+    <HeightOnFlowchart i:nil="true" />
     <Id>313c7487-c050-4236-ac3a-08d2d8efbab1</Id>
     <Parent i:nil="true" />
+    <PositionOnFlowchart xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Numerics" i:nil="true" />
     <PropertyValues />
     <SelectedOptionId i:nil="true" />
+    <WidthOnFlowchart i:nil="true" />
     <AutoCloseMode>None</AutoCloseMode>
     <EnableStatus>true</EnableStatus>
     <ExceptionHandlingMode>Default</ExceptionHandlingMode>
@@ -58,7 +64,7 @@
   <Name>getTime.pix</Name>
   <Namespaces xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <Params />
-  <PlatformVersion xmlns:d2p1="http://schemas.datacontract.org/2004/07/System" xmlns="">
+  <PlatformVersion xmlns:d2p1="http://schemas.datacontract.org/2004/07/System">
     <d2p1:_Build>0</d2p1:_Build>
     <d2p1:_Major>3</d2p1:_Major>
     <d2p1:_Minor>0</d2p1:_Minor>
